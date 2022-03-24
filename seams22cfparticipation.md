@@ -69,15 +69,8 @@ Here you can find the preliminary program for the in-person part of SEAMS in Pit
 | 18:00-21:00 |		SEAMS 2022 Dinner |
 
 
-### Program
-
+More details regarding SEAMS 2022 program can be found here:
 https://conf.researchr.org/track/seams-2022/seams-2022-papers#Preliminary-Program 
-
-
-
-## Industrial Challenge Problem Design (In-Person)
-
-Working with colleagues from a local Pittsburgh company, the half-day in-person event on May 23 is going to be devoted to the definition of an industrial challenge, with direct industrial relevance, that can be addressed by researchers.
 
 
 ## COVID-19 Statement
