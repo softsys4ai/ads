@@ -51,18 +51,28 @@ We have two keynotes: the first one will be given by Phil Koopman (Carnegie Mell
 
 - 3 artifacts to foster community research and reuse
 
-## In-Person Program (23 May)
+## In-Person Program (Industrial Challenge Problem Design; 23 May)
+
+Working with colleagues from a local Pittsburgh company, the half-day in-person event on May 23 is going to be devoted to the definition of an industrial challenge, with direct industrial relevance, that can be addressed by researchers.
+
 Here you can find the preliminary program for the in-person part of SEAMS in Pittsburgh:
 
-Time		Event
+| Time	|	Event |
+---------
 09:00-09:30	 Session 10: Welcome back and Intros
+---------
 09:30-10:00		Industrial Case Study: Introduction
+---------
 10:00-10:30		Industrial Case Study: Brainstorming 1
+---------
 10:30-11:00		Coffee Break
+---------
 11:00-12:00		Industrial Case Study: Brainstorming 2
+---------
 12:00-12:30		Industrial Case Study: Report out and Definition
+---------
 18:00-21:00		SEAMS 2022 Dinner
-
+---------
 
 ### Program
 
