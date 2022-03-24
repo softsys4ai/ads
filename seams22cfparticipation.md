@@ -4,9 +4,9 @@ https://conf.researchr.org/home/seams-2022
 
 Co-located with ICSE 2022, https://conf.researchr.org/home/icse-2022
 
-May 18-20: Virtual Technical Program
+**May 18-20: Virtual Technical Program**
 
-May 23: In-Person Program, Pittsburgh, PA, USA
+**May 23: In-Person Program, Pittsburgh, PA, USA**
 
 ## Why to participate?
 
