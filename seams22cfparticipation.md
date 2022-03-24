@@ -57,22 +57,17 @@ Working with colleagues from a local Pittsburgh company, the half-day in-person 
 
 Here you can find the preliminary program for the in-person part of SEAMS in Pittsburgh:
 
+
 | Time	|	Event |
----------
-09:00-09:30	 Session 10: Welcome back and Intros
----------
-09:30-10:00		Industrial Case Study: Introduction
----------
-10:00-10:30		Industrial Case Study: Brainstorming 1
----------
-10:30-11:00		Coffee Break
----------
-11:00-12:00		Industrial Case Study: Brainstorming 2
----------
-12:00-12:30		Industrial Case Study: Report out and Definition
----------
-18:00-21:00		SEAMS 2022 Dinner
----------
+| ------------- | ------------- |
+|09:00-09:30 |	 Session 10: Welcome back and Intros |
+|09:30-10:00 |		Industrial Case Study: Introduction |
+| 10:00-10:30 |		Industrial Case Study: Brainstorming |
+| 10:30-11:00	 |	Coffee Break |
+| 11:00-12:00	|	Industrial Case Study: Brainstorming 2 |
+| 12:00-12:30	|	Industrial Case Study: Report out and Definition |
+| 18:00-21:00 |		SEAMS 2022 Dinner |
+
 
 ### Program
 
