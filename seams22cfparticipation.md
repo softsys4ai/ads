@@ -8,11 +8,9 @@ Co-located with ICSE 2022, https://conf.researchr.org/home/icse-2022
 
 **May 23: In-Person Program, Pittsburgh, PA, USA**
 
-## Why to participate?
+## Why participate?
 
-Many of today's software-intensive systems need to continuously preserve and optimize their operation in the presence of uncertain changes in their operating environment, resource
-
-variability, evolving user needs, attacks, and faults. In addition to that, the complexity of these systems demands autonomy, self-management, and self-adaptation. SEAMS focuses on applying software engineering methods, techniques, processes, and tools to support the construction of safe, performant, and cost-effective self-adaptive and autonomous systems that provide self-* properties like self-configuration, self-healing, self-optimization, and self-protection.
+Many of today's software-intensive systems need to continuously preserve and optimize their operation in the presence of uncertain changes in their operating environment, resource variability, evolving user needs, attacks, and faults. In addition to that, the complexity of these systems demands autonomy, self-management, and self-adaptation. SEAMS focuses on applying software engineering methods, techniques, processes, and tools to support the construction of safe, performant, and cost-effective self-adaptive and autonomous systems that provide self-* properties like self-configuration, self-healing, self-optimization, and self-protection.
 
 SEAMS brings together researchers and practitioners from academia, industry, and government, to investigate, discuss, examine and advance the fundamental principles, the state of the art, and the solutions addressing critical challenges of engineering self-adaptive and self-managing systems.
 
@@ -60,7 +58,7 @@ Here you can find the preliminary program for the in-person part of SEAMS in Pit
 
 | Time	|	Event |
 | ------------- | ------------- |
-|09:00-09:30 |	 Session 10: Welcome back and Intros |
+|09:00-09:30 |	 Welcome back and Intros |
 |09:30-10:00 |		Industrial Case Study: Introduction |
 | 10:00-10:30 |		Industrial Case Study: Brainstorming |
 | 10:30-11:00	 |	Coffee Break |
